@@ -8,6 +8,7 @@ This is the primary repo for Space Station 14. To prevent people forking RobustT
 
 If you want to host or create content for SS14, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
 
+The current goal of this fork in particular is to add a virology system and a better medical system than upstream.
 ## Links
 
 <div class="header" align="center">  
